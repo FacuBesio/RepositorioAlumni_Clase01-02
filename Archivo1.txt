@@ -1,3 +1,4 @@
 Hola mundo! Desde Archivo1
-Se agrega línea 2, luego de realizar el commit " Version Incial"
-línea 3
+Se agrega lÃ­nea 2, luego de realizar el commit " Version Incial"
+lÃ­nea 3
+lÃ­nea agregada en el Remoto desde GitHub.
